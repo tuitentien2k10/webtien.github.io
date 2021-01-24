@@ -5,9 +5,7 @@
     <title> Web cua Tien </title>
 </head>
 <body>
-    <h1 style="color:black;">
-    	TKB(9A)
-    </h1>
+    <h1 style="color:pink;"> TKB(9A) </h1>
     <p>
         <h2 style="color:pink;"> Sáng </h2>
         <p style="color:black;"><b> T2: Toán; Văn; Sử; Hóa </b> </p>
