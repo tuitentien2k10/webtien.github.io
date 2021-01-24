@@ -18,7 +18,7 @@
         <p style="color:black;"><b> T7: Toán; Văn; Thể Dục; Công Nghệ </b></p>
     </p>
     <p>
-    	<h3 style="color:black;"> Chiều </h3>
+    	<h3 style="color:pink;"> Chiều </h3>
 
         
 
