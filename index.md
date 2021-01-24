@@ -4,7 +4,7 @@
 <head>
     <title> Web cua Tien </title>
 </head>
-<body style="background-color:gray;">
+<body style="background-color:white;">
     <h1 style="color:black;">
     	TKB(9A)
     </h1>
