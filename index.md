@@ -2,8 +2,7 @@
 
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <title>Web cua Tien</title>
+    <title> Web cua Tien </title>
 </head>
 <body style="background-color:gray;">
     <h1 style="color:black;">
